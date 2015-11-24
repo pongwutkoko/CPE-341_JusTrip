@@ -8,6 +8,7 @@ thaiFruits=["mangosteen","mango","rose apple","rambutan"]
 allFruits = someFruits + thaiFruits
 print(allFruits)
 
+
 japaneseFruits=["Kaki","Ume"]
 japaneseFruits.append("Fuji apple")
 print ( japaneseFruits )
