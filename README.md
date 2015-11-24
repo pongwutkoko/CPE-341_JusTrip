@@ -19,6 +19,7 @@ git fetch
 git status
 git config --global user.name <name>        //to tell git who you are
 git config --global user.email <email>
+git config --global --list                  //check identity
 
 
 
