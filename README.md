@@ -1,10 +1,10 @@
 # CPE-JusTrip
 
  < Group Members >
-1. Mr.Pongwut Maensamut   ID. 56113045-1
-2. Mr.Supanat Veerahong   ID. 56113068-3
-3. Mr.Pachara Choopradit  ID. 56113046-9
-4. Mr.Vivut Jongveerachai ID. 56113088-1
+1. Mr.Pongwut Maensamut     ID. 56113045-1
+2. Mr.Supanat Veerahong     ID. 56113068-3
+3. Mr.Pachara Choopradit    ID. 56113046-9
+4. Mr.Wiwat Jongwachirachai ID. 56113088-1
 
  < Clone URL>
 https://github.com/pongwutkoko/CPE-341_JusTrip.git
